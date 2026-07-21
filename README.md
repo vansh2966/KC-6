@@ -11,6 +11,19 @@ KC-6 is an RC rover with 6 wheels, where front wheels have rocker boggy suspensi
 <img width="902" height="1600" alt="image" src="https://github.com/user-attachments/assets/f140584e-2ad3-4d23-87ef-ee214d779ee7" />
 
 
+# Bill of Materials (BOM)
+
+| Part | Price (₹) | Qty | Total (₹) |
+|------|----------:|----:|----------:|
+| BO Motor DC Gear Motor | 289 | 1 | 289 |
+| Acrylic 6 Wheel Drive Curious Chassis | 1495 | 1 | 1495 |
+| L298 Motor Driver | 173 | 3 | 519 |
+| Mega 2560 R3 | 1729 | 1 | 1729 |
+| Ultrasonic Sensor | 140 | 1 | 140 |
+| Buzzer | 36 | 1 | 36 |
+| Miscellaneous | 500 | 1 | 500 |
+| **Grand Total** |  |  | **₹4,708** |
+
 
 
 
