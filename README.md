@@ -11,19 +11,18 @@ KC-6 is an RC rover with 6 wheels, where front wheels have rocker boggy suspensi
 <img width="902" height="1600" alt="image" src="https://github.com/user-attachments/assets/f140584e-2ad3-4d23-87ef-ee214d779ee7" />
 
 
-# Bill of Materials (BOM)
+#  Bill of Materials (BOM)
 
-| Part | Price (₹) | Qty | Total (₹) |
-|------|----------:|----:|----------:|
-| BO Motor DC Gear Motor | 289 | 1 | 289 |
-| Acrylic 6 Wheel Drive Curious Chassis | 1495 | 1 | 1495 |
-| L298 Motor Driver | 173 | 3 | 519 |
-| Mega 2560 R3 | 1729 | 1 | 1729 |
-| Ultrasonic Sensor | 140 | 1 | 140 |
-| Buzzer | 36 | 1 | 36 |
-| Miscellaneous | 500 | 1 | 500 |
-| **Grand Total** |  |  | **₹4,708** |
-
+| Component | Qty | Unit Price (₹) | Total (₹) | Purchase Link |
+|-----------|----:|---------------:|----------:|---------------|
+| BO Motor DC Gear Motor | 1 | 289 | 289 | [Amazon](https://www.amazon.in/Shaft-Motor-Arduino-Robot-Projects/dp/B0G9KY63MN/) |
+| Acrylic 6-Wheel Robot Chassis | 1 | 1495 | 1495 | [Amazon](https://www.amazon.in/Kit4Curious-Acrylic-Curious-Chassis-Robotics/dp/B07D5T2DN3/) |
+| L298N Motor Driver | 3 | 173 | 519 | [Amazon](https://www.amazon.in/Electronic-Spices-Motor-Driver-Circuit/dp/B0BJQDJFYY/) |
+| Arduino Mega 2560 R3 | 1 | 1729 | 1729 | [Amazon](https://www.amazon.in/Mega-2560-Cable-Compatible-Arduino/dp/B0D7H32YZ7/) |
+| HC-SR04 Ultrasonic Sensor | 1 | 140 | 140 | [Amazon](https://www.amazon.in/Robocraze-Ultrasonic-Non-Contact-Resolution-Automation/dp/B01I1ZTPJC/) |
+| Active Buzzer | 1 | 36 | 36 | [Amazon](https://www.amazon.in/Universal-Hub-12V-Buzzer-Alarm/dp/B0H1X7TWNN/) |
+| Miscellaneous (Wires, Screws, Connectors, etc.) | 1 | 500 | 500 | — |
+| **Grand Total** | **8 Items** |  | **₹4,708** | |
 
 
 
